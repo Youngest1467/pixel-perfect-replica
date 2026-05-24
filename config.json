@@ -1,0 +1,113 @@
+{
+  "site": {
+    "name": "William Wright Commercial - Nanaimo",
+    "description": "Full-service commercial real estate brokerage providing sales, leasing, and investment services in Nanaimo and Vancouver Island",
+    "url": "https://nanaimo.williamwright.ca",
+    "mainWebsite": "https://williamwright.ca",
+    "language": "en",
+    "region": "CA-BC"
+  },
+  "company": {
+    "legalName": "William Wright Commercial Inc.",
+    "businessName": "William Wright Commercial",
+    "founded": 2013,
+    "nanaimo_office_established": 2025,
+    "license": {
+      "number": "X038181",
+      "authority": "BCFSA",
+      "type": "Branch Office - Trading",
+      "effective_date": "2025-06-20",
+      "expiry_date": "2027-01-08",
+      "status": "Active"
+    }
+  },
+  "contact": {
+    "office": {
+      "name": "William Wright Commercial - Nanaimo",
+      "address": "205-335 Wesley Street",
+      "city": "Nanaimo",
+      "province": "BC",
+      "postalCode": "V9R 2T5",
+      "country": "Canada"
+    },
+    "phone": "250-586-1226",
+    "email": "reception@williamwright.ca",
+    "hours": {
+      "weekday": "9:00 AM - 5:00 PM",
+      "saturday": "By appointment",
+      "sunday": "Closed"
+    }
+  },
+  "team": {
+    "managing_broker": "Cory William Wright",
+    "agents": [
+      "Santanna Jade Portman",
+      "Amandeep Singh"
+    ]
+  },
+  "services": [
+    "Commercial Property Sales & Leasing",
+    "Landlord Representation & Services",
+    "Tenant Representation & Services",
+    "Investment & Development Services",
+    "Self Storage Services",
+    "Project Marketing"
+  ],
+  "social_media": {
+    "facebook": "https://facebook.com/WilliamWrightCommercial",
+    "instagram": "https://instagram.com/williamwrightrealestate",
+    "linkedin": "https://linkedin.com/company/william-wright-commercial",
+    "twitter": "https://twitter.com/wwcommercial",
+    "youtube": "https://youtube.com/@williamwrightcommercial"
+  },
+  "seo": {
+    "keywords": [
+      "commercial real estate Nanaimo",
+      "office space Nanaimo",
+      "retail space Nanaimo",
+      "commercial properties Vancouver Island",
+      "business space leasing BC",
+      "commercial property sales"
+    ],
+    "og_image": "/images/og-image.jpg",
+    "twitter_handle": "@wwcommercial"
+  },
+  "branding": {
+    "primary_color": "#D32F2F",
+    "secondary_color": "#1a1a1a",
+    "accent_color": "#f5f5f5",
+    "font_family": "Inter, sans-serif"
+  },
+  "pages": {
+    "homepage": "/",
+    "about": "/about",
+    "services": "/services",
+    "properties": "/properties",
+    "team": "/team",
+    "contact": "/contact",
+    "market_reports": "/market-reports"
+  },
+  "features": {
+    "property_listings": true,
+    "team_directory": true,
+    "contact_forms": true,
+    "market_intelligence": true,
+    "blog": false,
+    "newsletter": true,
+    "search": true
+  },
+  "analytics": {
+    "google_analytics_enabled": true,
+    "conversion_tracking": true,
+    "form_submissions_tracking": true
+  },
+  "deployment": {
+    "platform": "Lovable.dev",
+    "repository": "william-wright-nanaimo",
+    "main_branch": "main",
+    "auto_deploy": true,
+    "environment": "production"
+  },
+  "version": "1.0.0",
+  "last_updated": "2026-05-24"
+}
